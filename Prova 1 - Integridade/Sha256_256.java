@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import com.dinamonetworks.Dinamo;
-import br.com.trueaccess.TacException;
+// import br.com.trueaccess.TacException;
 import br.com.trueaccess.TacNDJavaLib;
 import java.util.HexFormat;
 
